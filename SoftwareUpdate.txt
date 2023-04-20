@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
