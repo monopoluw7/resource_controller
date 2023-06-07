@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add Amazon Sagemaker Docs integrations page (#7293)
