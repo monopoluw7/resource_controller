@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
