@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add settings runs_dir == datasets_dir warning (#8653)
