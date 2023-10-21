@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
