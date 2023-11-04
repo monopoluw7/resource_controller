@@ -1,1 +1,1 @@
-added badges (#45)
+Docs partial mdformat improvements (#7378)
