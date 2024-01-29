@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Compress docs images (#8124)
