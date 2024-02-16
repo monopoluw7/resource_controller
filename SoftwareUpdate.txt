@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add docstrings to new HUB functions (#7576)
