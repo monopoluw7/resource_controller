@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
